@@ -1,0 +1,12 @@
+[submodule "final_project"]
+	path = final_project
+	url = git@github.com:KingYiuWoo/final_project.git
+[submodule "robotic_voice_control"]
+	path = robotic_voice_control
+	url = git@github.com:lakshmiu1/robotic_voice_control.git
+[submodule "gazebo_web"]
+	path = gazebo_web
+	url = git@github.com:gsreddy99/gazebo_web.git
+[submodule "robotics_project"]
+	path = robotics_project
+	url = git@github.com:JuLieAlgebra/robotics_project.git
